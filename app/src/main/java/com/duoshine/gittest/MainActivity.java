@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //master修改
         //其他网络修改
+        //修改后出了版本 这个修改要提交
     }
 }
